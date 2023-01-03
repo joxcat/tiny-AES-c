@@ -1,0 +1,10 @@
+{
+  "name": "tiny-aes-c",
+  "version": "1.0.0",
+  "description": "Small portable AES128/192/256 in C",
+  "keywords": [],
+  "author": "kokke",
+  "license": "Unlicense",
+  "extraIncludes": [ "include" ],
+  "dependencies": {}
+}
